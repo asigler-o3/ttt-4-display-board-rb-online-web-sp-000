@@ -2,3 +2,4 @@
 # out the current state.
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
+end
