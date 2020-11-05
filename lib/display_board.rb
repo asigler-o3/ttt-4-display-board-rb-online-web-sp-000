@@ -8,3 +8,6 @@ def display_board (ttt_board)
  puts "-----------"
  puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
+
+board = [" "," "," "," "," "," "," "," "," "]
+display_board(board)
